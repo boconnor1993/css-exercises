@@ -7,10 +7,31 @@ img {
   height: 100px;
 }
 
+.text {
+  text-align: center;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
 }
+
+.info-all {
+  display: flex;
+  margin: 5px 100px;
+  justify-content: center;
+  gap: 50px;
+}
+
+.info-1 .info-2 .info-3 .info-4 {
+  max-width: 200px;
+
+}
+
+
+
+
 
 /* do not edit this footer */
 .footer {
